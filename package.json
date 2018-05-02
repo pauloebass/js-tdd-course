@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pauloebass/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/pauloebass/js-tdd-course#readme"
+  "homepage": "https://github.com/pauloebass/js-tdd-course#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
 }
