@@ -35,7 +35,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-videos
+videos/
 
 # TypeScript v1 declaration files
 typings/
@@ -97,7 +97,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-videos
+videos/
 
 # TypeScript v1 declaration files
 typings/
