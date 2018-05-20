@@ -35,7 +35,6 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-videos/
 
 # TypeScript v1 declaration files
 typings/
@@ -60,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# FOLDERS
+videos/
+
+# FILES
+#/FILE.EXTENSION
